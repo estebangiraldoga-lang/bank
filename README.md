@@ -158,3 +158,6 @@ Captura desde Postman (PNG).
 
 Archivo JSON con la respuesta (.json) — generado por test_endpoints.sh o exportado desde Postman.
 
+! [image alt](https://github.com/estebangiraldoga-lang/bank/blob/main/consultar%20el%20historial%20de%20transacciones%20de%20una%20cuenta%20bancaria%20espec%C3%ADfica.png?raw=true)
+
+
