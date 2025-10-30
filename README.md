@@ -193,9 +193,58 @@ Los archivos generados tendrán nombres YYYYMMDD_HHMMSS_<endpoint>.json.
  Todas las pruebas ejecutadas y capturadas (Swagger + Postman + JSON)
 
 
+<img width="1366" height="768" alt="primera captura del codigo" src="https://github.com/user-attachments/assets/387b25a2-e908-4413-b532-80065c4ed2f8" />
 
+## 📸 Evidencia del código
 
-<img width="921" height="517" alt="image" src="https://github.com/user-attachments/assets/2e61a4f1-c137-49a5-917b-bdffb5e59105" />
+A continuación se muestra una captura del código fuente principal de la aplicación:
+---
+
+## 🧪 Evidencias de funcionamiento
+
+A continuación se muestran las pruebas realizadas en **Swagger UI** y **Postman**, con fecha y hora registradas en cada ejecución.  
+Cada evidencia valida el correcto funcionamiento de los endpoints principales del sistema bancario.
+
+---
+
+### 🧾 Crear nuevo cliente
+📅 **Fecha:** 30/10/2025 — 🕓 **Hora:** 4:25 p. m.  
+📍 **Endpoint:** `POST /api/bank/customers`  
+📋 **Descripción:** Se crea un nuevo cliente con su identificador, nombre y correo electrónico.
+
+**Resultado esperado:** Respuesta `201 Created` con los datos del cliente registrado.
+
+![Evidencia — Crear cliente](evidence/obtener-la-lista-completa-de-clientes-registrados-en-el-sistema-bancario.png "Evidencia en Swagger UI — Creación de cliente")
+
+---
+
+### 💳 Obtener lista de clientes
+📅 **Fecha:** (coloca la fecha/hora exacta de tu captura)  
+📍 **Endpoint:** `GET /api/bank/customers`  
+📋 **Descripción:** Muestra todos los clientes registrados en el sistema.
+
+![Evidencia — Listar clientes](evidence/nombre-de-la-captura-listar-clientes.png "Evidencia en Swagger UI — Lista de clientes")
+
+---
+
+### 💰 Realizar depósito
+📅 **Fecha:** (fecha/hora)  
+📍 **Endpoint:** `POST /api/bank/deposit`  
+📋 **Descripción:** Permite ingresar dinero a una cuenta existente.
+
+![Evidencia — Depósito](evidence/nombre-de-la-captura-deposito.png "Evidencia en Swagger UI — Depósito exitoso")
+
+---
+
+### 🏦 Aplicar intereses
+📅 **Fecha:** (fecha/hora)  
+📍 **Endpoint:** `POST /api/bank/apply-interest`  
+📋 **Descripción:** Aplica las tasas de interés según el tipo de cuenta (ahorros o corriente).
+
+![Evidencia — Intereses](evidence/nombre-de-la-captura-intereses.png "Evidencia en Swagger UI — Aplicación de intereses")
+
+---
+
 
 
 
