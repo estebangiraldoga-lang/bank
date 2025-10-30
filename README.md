@@ -191,3 +191,15 @@ Los archivos generados tendrán nombres YYYYMMDD_HHMMSS_<endpoint>.json.
  Swagger funcionando y documentado
 
  Todas las pruebas ejecutadas y capturadas (Swagger + Postman + JSON)
+
+
+
+
+<img width="921" height="517" alt="image" src="https://github.com/user-attachments/assets/2e61a4f1-c137-49a5-917b-bdffb5e59105" />
+
+
+
+
+
+
+
