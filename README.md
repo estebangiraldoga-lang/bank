@@ -30,7 +30,7 @@ Copiar código
 ## 🚀 Ejecución del proyecto (local)
 
 1. Clona el repositorio:
-```bash
+``bash
 git clone https://github.com/tu-usuario/logica-solucion-problemas-main.git
 cd logica-solucion-problemas-main
 Ejecuta con Maven Wrapper:
@@ -158,7 +158,7 @@ Captura desde Postman (PNG).
 
 Archivo JSON con la respuesta (.json) — generado por test_endpoints.sh o exportado desde Postman.
 
-![image alt](https://github.com/estebangiraldoga-lang/bank/blob/main/consultar%20el%20historial%20de%20transacciones%20de%20una%20cuenta%20bancaria%20espec%C3%ADfica.png?raw=true)4
-![imagencap1](./aplicar%intereses%a%una%cuenta%bancaria%específic.png)
+
+![imagencap1](./aplicar%20intereses%20a%20una%20cuenta%20bancaria%20específic.png)
 
 
