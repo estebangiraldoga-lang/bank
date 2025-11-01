@@ -158,7 +158,44 @@ Captura desde Postman (PNG).
 
 Archivo JSON con la respuesta (.json) — generado por test_endpoints.sh o exportado desde Postman.
 
-
+INTERES
 ![imagencap1](./aplicar%20intereses%20a%20una%20cuenta%20bancaria%20específic.png)
+![consultar el historial de transacciones de una cuenta bancaria específica](./consultar%20el%20historial%20de%20transacciones%20de%20una%20cuenta%20bancaria%20específica.png)
+
+CONSULTAS DATOS DE UN CLIENTE
+![consultar los datos de un cliente específico](./consultar%20los%20datos%20de%20un%20cliente%20específico.png)
+
+CONSULTAS DETALLES DE CUENTAS
+![consultar los detalles de una cuenta bancaria específic](./consultar%20los%20detalles%20de%20una%20cuenta%20bancaria%20específic.png)
+
+CREACIÓN DE CUENTA BANCARIA
+![crear una nueva cuenta bancaria asociada a un cliente específic](./crear%20una%20nueva%20cuenta%20bancaria%20asociada%20a%20un%20cliente%20específic.png)
+![crear una nueva cuenta bancaria asociada a un cliente específico](./crear%20una%20nueva%20cuenta%20bancaria%20asociada%20a%20un%20cliente%20específico.png)
+
+LISTA DE CLIENTES EN EL SISTEMA
+![obtener la lista completa de clientes registrados en el sistema bancario](./obtener%20la%20lista%20completa%20de%20clientes%20registrados%20en%20el%20sistema%20bancario.png)
+
+DEPOSITO
+![realizar un depósito de dinero en una cuenta bancaria específic](./realizar%20un%20depósito%20de%20dinero%20en%20una%20cuenta%20bancaria%20específic.png)
+![realizar un depósito de dinero en una cuenta bancaria específica](./realizar%20un%20depósito%20de%20dinero%20en%20una%20cuenta%20bancaria%20específica.png)
+
+TRANFERENCIA
+![realizar una transferencia de dinero desde una cuenta origen hacia una cuenta destin](./realizar%20una%20transferencia%20de%20dinero%20desde%20una%20cuenta%20origen%20hacia%20una%20cuenta%20destin.png)
+![realizar una transferencia de dinero desde una cuenta origen hacia una cuenta destino](./realizar%20una%20transferencia%20de%20dinero%20desde%20una%20cuenta%20origen%20hacia%20una%20cuenta%20destino.png)
+
+REGISTRO DE CLIENTE
+![registrar un nuevo cliente en el sistema bancari](./registrar%20un%20nuevo%20cliente%20en%20el%20sistema%20bancari.png)
+![registrar un nuevo cliente en el sistema bancario](./registrar%20un%20nuevo%20cliente%20en%20el%20sistema%20bancario.png)
+
+REGISTRO DE DINERO
+![retirar dinero de una cuenta bancaria específic](./retirar%20dinero%20de%20una%20cuenta%20bancaria%20específic.png)
+![retirar dinero de una cuenta bancaria específica](./retirar%20dinero%20de%20una%20cuenta%20bancaria%20específica.png)
+
+
+
+
+
+
+
 
 
